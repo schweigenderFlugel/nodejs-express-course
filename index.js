@@ -22,5 +22,5 @@ app.get('/*', (req, res, next) => {
 })
 
 app.listen(3000, () => {
-    console.log('Esto escuchando por el puerto 3000');
+    console.log('Estoy escuchando por el puerto 3000');
 })
